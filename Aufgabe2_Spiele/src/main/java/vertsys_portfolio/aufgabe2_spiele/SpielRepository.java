@@ -7,6 +7,6 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
  * Spring Data Repository für die Spiel-Entität.
  */
  @RepositoryRestResource(collectionResourceRel = "spiel", path = "spiel")
-public interface FilmRepository extends PagingAndSortingRepository<Spiel, Long> {
+public interface SpielRepository extends PagingAndSortingRepository<Spiel, Long> {
 
 }

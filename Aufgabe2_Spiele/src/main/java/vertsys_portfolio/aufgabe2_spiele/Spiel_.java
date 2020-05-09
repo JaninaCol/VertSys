@@ -18,7 +18,7 @@ import lombok.Data;
  */
 @Entity
 @Data
-public class Spiel implements Serializable {
+public class Spiel_ implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -58,7 +58,7 @@ public class Spiel implements Serializable {
     /**
      * Standard-Konstruktor
      */
-    public Spiel() {
+    public Spiel_() {
     }
 
 }

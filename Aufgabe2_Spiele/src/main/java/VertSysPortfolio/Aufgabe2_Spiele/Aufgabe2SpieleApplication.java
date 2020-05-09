@@ -1,4 +1,4 @@
-package DHBW.VertSys.Sem4.Aufgabe2_Spiele;
+package VertSysPortfolio.Aufgabe2_Spiele;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

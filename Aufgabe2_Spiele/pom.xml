@@ -8,7 +8,7 @@
 		<version>2.2.7.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>DHBW.VertSys.Sem4</groupId>
+	<groupId>VertSys-Portfolio</groupId>
 	<artifactId>Aufgabe2_Spiele</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Aufgabe2_Spiele</name>
